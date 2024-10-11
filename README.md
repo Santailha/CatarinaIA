@@ -1,2 +1,2 @@
 # CatarinaIA
-Catarna, inteligencia artificial 
+Catarina, inteligencia artificial 
